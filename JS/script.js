@@ -8,13 +8,14 @@ articles.forEach((article) => {  // Gets the parent element(article) for each FA
         const response = article.querySelector(".response-to-question");
         const responseCompStyle = window.getComputedStyle(response);
 
+        article.classList.toggle("active");
+
         if (responseCompStyle.maxHeight === "0px") {
             response.style.maxHeight = response.scrollHeight + "px";
         } else {
             response.style.maxHeight = "0";
         };
 
-        article.classList.toggle("active");
 
         // Closes any FAQ article that isn't currently the clicked one
         articles.forEach((faq) => {

@@ -81,8 +81,8 @@ article {
 .response-to-question {
     max-height: 0px;
     overflow: hidden;
-    transition: max-height 0.4s ease;
-    -webkit-transition: max-height 0.4s ease;
+    transition: max-height 0.3s ease;
+    -webkit-transition: max-height 0.3s ease;
 }
 
 .response-to-question p {
@@ -97,20 +97,20 @@ article {
     outline: none;
     background: transparent;
     cursor: pointer;
-    transition: transform 0.4s ease;
-    -webkit-transition: transform 0.4s ease;
+    transition: transform 0.3s ease;
+    -webkit-transition: transform 0.3s ease;
 }
 
 /* CSS generated classes spaecifically for Js  */
 .active .response-to-question {
-    animation: fadeIn 1s ease;
-    -webkit-animation: fadeIn 1s ease;
+    animation: fadeIn 0.7s ease;
+    -webkit-animation: fadeIn 0.7s ease;
 }
 
 .active .question-asked {
     color: var(--Very-dark-desaturated-blue);
-    transition: color 0.4s ease-in-out;
-    -webkit-transition: color 0.4s ease-in-out;
+    transition: color 0.3s ease-in-out;
+    -webkit-transition: color 0.3s ease-in-out;
     font-weight: 700;
 }
 
