@@ -30,16 +30,16 @@ Users should be able to:
 ### Screenshot
 
 
-![](<Assets/Screenshot/Screenshot Desktop.png>)
+![](<Screenshot/Screenshot Desktop.png>)
 
 
-![](<Assets/Screenshot/Screenshot (iPhone SE).png>)
+![](<Screenshot/Screenshot (iPhone SE).png>)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [Checkout out the solution on front end mentor](https://www.frontendmentor.io/solutions/responsive-faq-accordion-page-vanilla-js-uUVMTrnpFB)
+- Live Site: [Checkout the live site](https://martinsgundi-faq-accordion-page.netlify.app/)
 
 ## My process
 
